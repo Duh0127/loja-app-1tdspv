@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Meia from "./produtos/meia/page";
 
 export default function Home() {
   return (
