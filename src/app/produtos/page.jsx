@@ -6,13 +6,10 @@ import Link from "next/link"
 export default function Produtos() {
     return (
         <>
-            <Link href="/produtos/meia"> Meia </Link>
+            {/* <Link href="/produtos/meia"> Meia </Link>
             <Link href="/produtos/chinelo"> Chinelo </Link>
-            <Link href="/produtos/tenis"> Tenis</Link>
-
-            {/* <Meia />
-            <Chinelo />
-            <Tenis /> */}
+            <Link href="/produtos/tenis"> Tenis</Link> */}
+            <h1>PÁGINA DE PRODUTOS</h1>
         </>
     )
 }
