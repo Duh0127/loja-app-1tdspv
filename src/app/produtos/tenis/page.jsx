@@ -14,7 +14,7 @@ export default function Tenis(){
             />
           </figure>
           <p>Detalhes do Tênis</p>
-          <Link href="/produtos">Voltar</Link>
+          <Link href="/">Voltar</Link>
         </div>
     )
 }

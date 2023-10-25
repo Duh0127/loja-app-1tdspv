@@ -12,7 +12,7 @@ export default function Meia() {
                 alt="Imagem de Meia" 
             />
             <p>Detalhes da meia</p>
-            <Link href="/produtos">Voltar</Link>
+            <Link href="/">Voltar</Link>
         </div>
     )
 }

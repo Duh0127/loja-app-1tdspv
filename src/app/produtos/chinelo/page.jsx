@@ -12,7 +12,7 @@ export default function Chinelo() {
                 alt="Imagem de chinelo"
             />
             <p>Detalhes do chinelo</p>
-            <Link href="/produtos">Voltar</Link>
+            <Link href="/">Voltar</Link>
         </div>
     )
 }

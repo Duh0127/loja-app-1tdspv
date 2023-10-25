@@ -2,7 +2,7 @@
 
 export default function Rodape(){
     return(
-        <footer>
+        <footer className="bg-black text-white flex justify-center">
             <h6>Rodapé</h6>
         </footer>
     )
