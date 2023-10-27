@@ -1,0 +1,10 @@
+{
+    "usuarios": [
+        { "id": 1, "nome": "Alexandre Carlos", "email": "profalexandre@fiap.com.br", "senha": "123456" },
+        { "id": 2, "nome": "Tales Macedo", "email": "talesmacedo@gmail.com", "senha": "999000" },
+        { "id": 3, "nome": "Fernando Oliveira", "email": "fernando@outlook.com", "senha": "1111110982" },
+        { "id": 4, "nome": "Gabriel Medeiros", "email": "profgabriel@fiap.com.br", "senha": "22981893" },
+        { "id": 5, "nome": "Gustavo Rocha", "email": "profgustavo@hotmail.com", "senha": "98912323" },
+        { "id": 6, "nome": "João Pedro", "email": "joaopeh@uol.com", "senha": "129837322" }
+    ]
+}

@@ -9,7 +9,7 @@ export default function NotFound() {
                 <Image
                     height={300}
                     width={300}
-                    src="https://httpstatusdogs.com/img/404.jpg"
+                    src="https://http.dog/static/codes/dogs/medium/404.webp"
                     alt="Cachorro Cavando"
                 />
             </div>

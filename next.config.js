@@ -6,9 +6,9 @@ module.exports = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'httpstatusdogs.com',
+        hostname: 'http.dog',
         port: '',
-        pathname: '/img/**',
+        pathname: '/static/codes/dogs/medium/**',
       },
       {
         protocol: "https",
